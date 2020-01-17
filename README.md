@@ -2,7 +2,7 @@
 
 About
 -----
-This repo is based on GraphQL. It will help you understand the concepts of GraphQL in Python and NodeJs. We'll be using Django with Python and Apollo with NodeJs. Every branch on this repo consists of a seperate ReadMe.md to let you know the steps related to run the project on each branch.
+This repo is based on GraphQL. It will help you understand the concepts of GraphQL in NodeJs.
 
 This branch is the basic setup of ApolloServer(NodeJs) with GraphQL.
 
@@ -17,7 +17,7 @@ https://github.com/amulyasharma27797/GraphQL.git
 
  * Change working directory
  ```
- cd 1_graphql-apollo-server
+ cd 2_graphql-apollo-server
  ``` 
 
  * Install the dependency 
